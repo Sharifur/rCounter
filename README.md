@@ -9,7 +9,7 @@ $('counternumber').rCounter();
 
 Diuration //set this in mili seconds
 
-#Activate the plugin with options
+#Activate the plugin with options <br/>
 $('counternumber').rCounter({
 duration : 5000
 });
