@@ -1,15 +1,14 @@
 # rCounter
 this is a jquery counter plugin
 
-#Activate the plugin
+<h2>#Activate the plugin</h2><br/>
 $('counternumber').rCounter();
 
 
-#Options
+<h2>#Options</h2><br/>
+Diuration     //set this in mili seconds
 
-Diuration //set this in mili seconds
-
-#Activate the plugin with options <br/>
+<h2>#Activate the plugin with options </h2><br/>
 $('counternumber').rCounter({
 duration : 5000
 });
